@@ -1,0 +1,11 @@
+
+git -v / git --version  == to check the version 
+ git status  
+git init --one time per project -- initialization of project
+  .git --hidden folder created
+commit--- statement checkpoint 
+write--Add-conmmit 
+How the workfloe goes on to Git
+ working Dir-->git add-->staging Area-->git commit -->Repo-->git bash-->Git Hub
+
+  
