@@ -5,7 +5,19 @@ git init --one time per project -- initialization of project
   .git --hidden folder created
 commit--- statement checkpoint 
 write--Add-conmmit 
-How the workfloe goes on to Git
+How the workflow goes on to Git
  working Dir-->git add-->staging Area-->git commit -->Repo-->git bash-->Git Hub
+
+git status share the stattus of the master having untracked files.
+git commit -m 'one line message to save the files'
+git log provide the ubique log id , name, date & time, commit message
+
+git log --onelone shows one line message 
+
+commit is useful when one task is completed keep commit centric to one feature , one component or a file. 
+git config
+git config --global user.name, user.email used to set the nam & email. 
+git config --global code.editor chane default code editor
+
 
   
